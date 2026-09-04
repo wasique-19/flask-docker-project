@@ -353,8 +353,8 @@ Example:
 
 **Your Name**
 
-* GitHub: `<YOUR-GITHUB-USERNAME>`
-* LinkedIn: `<YOUR-LINKEDIN-PROFILE>`
+* GitHub: `wasique-19`
+* LinkedIn: `Wasique Khan`
 
 ---
 
